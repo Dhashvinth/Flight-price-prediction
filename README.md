@@ -1,9 +1,12 @@
 # Flight Price Prediction
 
-An end-to-end machine learning project that predicts flight ticket
-prices from journey and flight details. The project compares multiple
-regression approaches, tunes an XGBoost model, saves the trained
-pipeline, and serves predictions through a Streamlit web application.
+An end-to-end machine learning project that predicts flight ticket prices from journey and flight details. The project compares multiple regression approaches, tunes an XGBoost model, saves the trained pipeline, and serves predictions through a Streamlit web application.
+
+#Live Demo
+
+Try the deployed Streamlit application here:
+
+[Flight Price Prediction - Live App] (https://flight-price-prediction-slacdrwa42j5yxgptc5qhg.streamlit.app/)
 
 #Live Demo
 
